@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
       
-      <h1>Welcome to GIT REACT</h1>
-      <Login username="YASHIKA"/>
+      <h1>Welcome to REACT</h1>
+      <Login username="NITHYA"/>
       </header>
      
     </div>
